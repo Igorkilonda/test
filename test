@@ -1,0 +1,76 @@
+<html>
+
+    <head>
+        <title>A propos de l'agence web Monrespro</title>
+        <meta content="Monrespro est une agence Web qui vous accompagne dans le d&eacute;veloppement de votre business par la cr&eacute;ation de votre site professionnel de qualit&eacute; vous permettant d'augmenter le nombre de vos clients et de vos revenus." name="description" />
+        <meta content="Web design, web development, design, R&eacute;f&eacute;rencement, E-marketing, conseil et formation" name="keywords" />
+    </head>
+
+    <body>
+        <div class="span-17 last">
+            <div class="container-content">
+                <h1>Qui sommes-nous</h1>
+                <div class="feature-list alt-list">
+                    <h2>Nous  suivons l'évolution du web de tout près, et nous nous efforçons d'accéder immédiatement aux outils web les plus récents dès leur lancement pour vous permettre de développer votre entreprise sur le web. Nous consacrons également notre&nbsp;temps, l'énergie, et de l'effort, pour vous aider à commercialiser efficacement votre entreprise en ligne<br /></h2> </div>
+                <p><img alt="" width="680" height="400" src="img/placeholder-b.jpg">
+                </p>
+                <p>Par-déla les défis que nous propose la société contemporaine en matière de technologies, les enjeux de la communication restent essentiels.
+                    Il ne faut pas non plus en sous-estimer l'impact des outils de communication comme un site Internet et la présence sur des réseaux
+                    sociaux. Nos sociétés auront de plus en plus besoin de spécialistes de la communication, dont les compétences spécifiques seront de
+                    plus en plus variées. C'est à ce défi que nous nous efforcerons de vous accompagner.</p>
+                <p> Monrespro est une agence Web qui vous accompagne dans le développement de votre business par la création de votre site professionnel de
+                    qualité vous permettant d'augmenter le nombre de vos clients et de vos revenus. Monrespro est spécialisé dans les projets de business
+                    en ligne personnalisés par Adobe Business Catalyst. Nos experts créatifs, ingénieurs, consultants et chefs de projets, sont à même
+                    de vous fournir une prestation de services complète sur vos projets, de la conception du service à sa réalisation technique.</p>
+                <p>
+                Nos prestations sont adaptées à chaque contexte client, en tirant le meilleur parti des compétences présentes dans vos équipes. La satisfaction
+                    client est au cœur de notre modèle et un des critères clés de la mesure de la performance de nos équipes.
+                    <br /> Internet évolue constamment et Monrespro est spécialisé dans la création de sites web personnalisés clés en main pour les PME et indépendants.
+                    Monrespro met son expertise technique et sa créativité au service de votre société afin de présenter l'entreprise en ligne de façon
+                    optimale. </p>
+                <p>Comme une agence interactive dédiée aux solutions Adobe Business Catalyst, Monrespro est responsable de la stratégie et la mise en œuvre
+                    de "sites" pour de nombreux clients à travers le monde.La société a développé une philosophie qui allie design centré sur l'utilisateur
+                    et la technologie Adobe Business Catalyst pour répondre aux attentes des clients.&nbsp;<span style="font-size: 13px; line-height: 1.6;">Plus précisément, nous sommes une équipe de gens passionnés, talentueux et dévoués qui aiment travailler ensemble sur des projets qui offrent du succès dans les implémentations de Business Catalyst.</span>
+                </p>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <h2>Pourquoi nous choisir ?</h2>
+            <div class="row margin-bottom-30">
+                <div class="col-md-4 service-alternative">
+                    <div class="service"> <em class="fa fa-compress service-icon"></em>
+                        <div class="desc">
+                            <h4>Une imprimerie en ligne rapide - pas cher</h4>
+                            <p>L´imprimerie en ligne Monrespro offre un grand choix d´impression en ligne pas cher, avec une bonne qualité des produits. Il
+                                existe peu d'imprimeries en ligne qui proposent un tel rapport qualité-prix. Il est possible d´ imprimer des articles de
+                                toutes dimensions de la carte de visite à l'affiche à bas prix. Toutes les impressions en ligne sont produites selon les
+                                souhaits les plus spécifiques des clients.&nbsp;Monrespro, garantit la qualité d´impression en ligne, dans des délais très
+                                courts, tout en vous permettant de faire des économies.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 service-alternative">
+                    <div class="service"> <em class="fa fa-cogs service-icon"></em>
+                        <div class="desc">
+                            <h4>Agence Web</h4>
+                            <p>L'agence Web Monrespro a réuni tous les outils Web modernes afin de vous accompagner dans l'utilisation de nouvelles technologies
+                                Web, efficacement et avec moins de frais, pour apporter une valeur ajoutée à votre business.</p>
+                            <p>Nous créons des sites web dynamiques et professionnels à chargement rapide et d'un rendu parfait dans de nombreux navigateurs
+                                et sur une multitude d'écrans en conformité avec les derniers standards web.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 service-alternative">
+                    <div class="service"> <em class="fa fa-rocket service-icon"></em>
+                        <div class="desc">
+                            <h4>Agence de communication</h4>
+                            <p>Nous concevons pour vous des illustrations, mises en pages, cartes de visite, logos, affiches et flyers captivants.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Service Blokcs -->
+    </body>
+
+</html>
